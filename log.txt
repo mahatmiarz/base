@@ -19,7 +19,7 @@ gqdx
 drr
 ds
 a
-st
+std
 s
 dd
 d
