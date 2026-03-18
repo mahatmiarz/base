@@ -10,7 +10,7 @@ ree2d
 3wt
 s3
 1
-srw
+srww
 a
 7e
 s
